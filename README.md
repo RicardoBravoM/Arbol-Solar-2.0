@@ -11,6 +11,9 @@ Este proyecto se realiza para la ayuda al medio ambiente, siendo un pequeño gra
 El proyecto es en forma de arbol y sus hojas son los paneles solares con los cuales a diferentes horas del día podra tomar la luz solar desde diferentes puntos y asi cargar nuestros dispositivos 1 o 2 al mismo tiempo. 
 
 
-##Autores:Garcia Angeles Karen Jocabeth y Bravo Menchaca Ricardo
-
-#RECUPERACIÓN DE GARCIA ANGELES KAREN JOCABETH.MATRICULA:
+## Autores:
+Garcia Angeles Karen Jocabeth
+Bravo Menchaca Ricardo
+---
+## Recuperación para la alumna :
+Garcia Angeles Karen Jocabeth 
