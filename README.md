@@ -16,4 +16,4 @@ Garcia Angeles Karen Jocabeth
 Bravo Menchaca Ricardo
 ---
 ## Recuperación para la alumna :
-Garcia Angeles Karen Jocabeth 
+## Garcia Angeles Karen Jocabeth(1634041)
