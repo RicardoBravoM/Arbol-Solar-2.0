@@ -12,7 +12,7 @@ El proyecto es en forma de arbol y sus hojas son los paneles solares con los cua
 
 
 ## Autores:
-Garcia Angeles Karen Jocabeth
+## Garcia Angeles Karen Jocabeth 
 
 Bravo Menchaca Ricardo
 ---
