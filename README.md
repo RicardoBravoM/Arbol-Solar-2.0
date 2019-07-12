@@ -13,7 +13,11 @@ El proyecto es en forma de arbol y sus hojas son los paneles solares con los cua
 
 ## Autores:
 Garcia Angeles Karen Jocabeth
+
 Bravo Menchaca Ricardo
 ---
 ## Recuperación para la alumna :
 ## Garcia Angeles Karen Jocabeth(1634041)
+
+
+Se modifico el README y los sprint .
