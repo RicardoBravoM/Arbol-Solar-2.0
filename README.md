@@ -21,3 +21,9 @@ Bravo Menchaca Ricardo
 
 
 Se modifico el README y los sprint .
+
+![IMG-20190820-WA0001 1](https://user-images.githubusercontent.com/50536971/63355590-fac90980-c32b-11e9-8e2c-1a3dcb202125.jpg)
+---
+Se realizaron las conexiones de prueba para ver el funcionamiento, asi como las pruebas que se necesitaban para verificar el voltaje y corriente.
+
+
