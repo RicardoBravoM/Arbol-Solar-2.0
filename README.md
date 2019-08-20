@@ -26,4 +26,6 @@ Se modifico el README y los sprint .
 ---
 Se realizaron las conexiones de prueba para ver el funcionamiento, asi como las pruebas que se necesitaban para verificar el voltaje y corriente.
 
+![IMG_20190820_084524 1](https://user-images.githubusercontent.com/50537785/63357605-4df08b80-c32f-11e9-8953-20ba9089cdcf.jpg)
+Construccion de la maqueta 
 
