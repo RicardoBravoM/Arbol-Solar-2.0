@@ -10,6 +10,11 @@ Este proyecto se realiza para la ayuda al medio ambiente, siendo un pequeño gra
 
 El proyecto es en forma de arbol y sus hojas son los paneles solares con los cuales a diferentes horas del día podra tomar la luz solar desde diferentes puntos y asi cargar nuestros dispositivos 1 o 2 al mismo tiempo. 
 
+El arbol solar es una estructura creada con MDF y una base en cada rama para una celda solar que conectadas en paralelo haremos que la corriente aumente y pueda alimentar los dispositivos moviles(celulares,audifonos,pilas, etc.).
+
+# Diodo 1N4001 
+Un diodo es un componente electrónico con dos terminales que permite la circulación de la corriente eléctrica a través de él en un solo sentido. El 1N4001 es un rectificador de uso general, comúnmente utilizado en la construcción de fuentes de corriente directa.
+
 
 Se modifico el README y los sprint .
 
@@ -24,3 +29,6 @@ Construccion de la maqueta
 Se muestra el tipo de cableado y proteccion que se uso para tal en la imagen siguiente 
 
 
+
+![IMG_20190822_074915 1](https://user-images.githubusercontent.com/50536971/63517475-af8e3280-c4b4-11e9-969a-f3a4a559f15a.jpg)
+En esta imagen se presenta el proyecto final (Arbol Solar 2.0) 
