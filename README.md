@@ -23,3 +23,5 @@ Construccion de la maqueta
 ![68744027_2120168464755360_5537592057326993408_n](https://user-images.githubusercontent.com/50537785/63482819-d9693a00-c45f-11e9-8aae-ee1afd214945.jpg)
 Se muestra el tipo de cableado y proteccion que se uso para tal en la imagen siguiente 
 
+![68726487_1087755024945867_5218500734835752960_n](https://user-images.githubusercontent.com/50536971/63483574-79c05e00-c462-11e9-84bb-bb8ef87ad016.jpg)
+Diseño final de nuestro prototipo (Arbol Solar 1.0)
