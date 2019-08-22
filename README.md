@@ -20,6 +20,6 @@ Se realizaron las conexiones de prueba para ver el funcionamiento, asi como las 
 ![IMG_20190820_084524 1](https://user-images.githubusercontent.com/50537785/63357605-4df08b80-c32f-11e9-8953-20ba9089cdcf.jpg)
 Construccion de la maqueta 
 
-https://github.com/RicardoBravoM/Arbol-Solar-2.0/issues/4#issue-483744863
+![68744027_2120168464755360_5537592057326993408_n](https://user-images.githubusercontent.com/50537785/63482819-d9693a00-c45f-11e9-8aae-ee1afd214945.jpg)
 Se muestra el tipo de cableado y proteccion que se uso para tal en la imagen siguiente 
 
